@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sarah Bania-Dobyns, Ph.D.
 
-You can use the [editor on GitHub](https://github.com/sbaniadobyns/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sarah Bania-Dobyns is an instructional designer, content creator, and research analyst. She consults with corporate, nonprofit, and education organizations to help them strategize methods to reach their audiences in effective, engaging ways. 
 
 ### Markdown
 
