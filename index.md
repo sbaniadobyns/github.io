@@ -7,4 +7,3 @@ As an Educational Strategy Consultant, I consult with clients to uncover stories
 
 [Link](https://sbaniadobyns.github.io/e-learning/#) and ![Image](src)
 
-2. 
